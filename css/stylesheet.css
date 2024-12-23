@@ -586,9 +586,14 @@ footer .logo-span {
   color: #fff;
   border-radius: 4px;
   padding: 8px 24px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   margin-left: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 16px;
 }
 
 /* #endregion */
