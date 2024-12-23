@@ -554,7 +554,7 @@ footer .logo-span {
 
 .form {
   display: flex;
-  gap 24px
+  gap: 24px;
 }
 
 .input-form {
