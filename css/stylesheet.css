@@ -699,4 +699,12 @@ footer .logo-span {
   border-color: #4d5ae5;
 }
 
+.modal-checkbox-container {
+  margin-bottom: 24px;
+}
+
+.privacy-policy {
+  color: #4d5ae5;
+}
+
 /* #endregion */
