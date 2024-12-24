@@ -788,8 +788,14 @@ footer .logo-span {
   fill: transparent;
 }
 
-.fill-icon {
+.input-modal-form:focus + .modal-svg {
   fill: #4d5ae5;
+}
+
+.modal-input-checkbox:checked + .label-modal-form > .modal-span {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
 }
 
 /* #endregion */
