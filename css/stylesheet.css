@@ -718,6 +718,12 @@ footer .logo-span {
   fill: #4d5ae5;
 }
 
+.modal-input-checkbox:checked {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
+}
+
 .modal-comment-container {
   margin-bottom: 16px;
 }
